@@ -47,6 +47,12 @@
 			<version>2.1.4</version>
 		</dependency>
 
+		<!--Logging Dependencies-->
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-classic</artifactId>
+		</dependency>
+
 		<!--Spring Boot Test-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
